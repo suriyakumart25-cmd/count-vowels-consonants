@@ -6,7 +6,7 @@ public class CountVowels {
 
         Scanner sc = new Scanner(System.in);
 
-    System.out.println("Updated by Member3");
+    System.out.println("Updated by Member1");
         String str = sc.nextLine();
 
         int vowels = 0;
